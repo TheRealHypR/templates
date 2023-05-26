@@ -10,6 +10,7 @@ link3: https://www.manomano.de/catalogue/p/shelly-pro-1-54363511
 link4: https://www.idealo.de/preisvergleich/OffersOfProduct/201953806_-pro-1-shelly.html
 mlink: https://www.shelly.cloud/en/products/shop/shelly-pro-1
 flash: serial
+chip: solo1
 category: relay
 type: DIN Relay
 standard: global
